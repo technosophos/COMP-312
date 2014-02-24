@@ -5,4 +5,4 @@ def main(n):
         return n*main(n-1)
         
 if __name__ == '__main__':
-  main(5)
+  main(8)
